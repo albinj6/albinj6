@@ -4,7 +4,7 @@
 
 ## 💻 About Me
 
-I am a Computer Science student specializing in Data Science. I am passionate about exploring the potential of data to drive decision-making and innovation. Here are some areas I focus on:
+I am a Computer Science graduate specializing in Security. I am passionate about exploring the potential of data to drive decision-making and innovation. Here are some areas I focus on:
 
 - 📊 Data Analysis & Visualization
 - 🛜 Linux & Networking
