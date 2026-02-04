@@ -7,9 +7,9 @@
 I am a Computer Science student specializing in Data Science. I am passionate about exploring the potential of data to drive decision-making and innovation. Here are some areas I focus on:
 
 - 📊 Data Analysis & Visualization
-- 🧠 Machine Learning & AI
+- 🛜 Linux & Networking
 - 📚 Statistical Modeling
-- 💻 Programming in Python, C, R, and SQL
+- 💻 Programming in Python, C and SQL
 
 ## 🤝 Connect with Me
 
